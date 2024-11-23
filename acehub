@@ -37,5 +37,3 @@ local Window = Rayfield:CreateWindow({
 Window.ModifyTheme('Ocean') -- Modify the theme to 'DarkBlue'
 
 local Tab = Window:CreateTab("Home", 4483362458) -- Title, Image
-
-
